@@ -1,2 +1,3 @@
 # CPT202_Helper
-CPT202 Docker Tutorial, XJTLU AY2024 
+CPT202  WebApp Deployment & Docker Tutorial
+Tianxin Zhao, ICS, XJTLU, AY2024
